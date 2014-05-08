@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grocery List</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="units">
+        <item>cnt</item>
+        <item>lbs</item>
+        <item>oz</item>
+        <item>doz</item>
+        <item>Tbl</item>
+        <item>tsp</item>
+        <item>cups</item>
+    </string-array>
+    <string name="unitPrompt">Units</string>
+
+</resources>
